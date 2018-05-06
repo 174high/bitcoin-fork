@@ -1,0 +1,6 @@
+1. autoscan
+2. aclocal
+3. autoconf
+4. automake --add-missing
+5. ./configure
+6. make 
